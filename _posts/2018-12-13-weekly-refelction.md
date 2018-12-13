@@ -30,7 +30,7 @@ shape4 = place-image(RS,
   210, 100,
   shape3)
 ```
-
+![Flag Image](/images/flag.png)
 
 
 The challenges was that it is little bit hard to do the flag but I almost had it right 
