@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joyce Liang Weekly Reflection"
-date: 10-11-2018
+date: 2018-10-11
 ---
 
 My biggest challenge is ...
